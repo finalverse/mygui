@@ -123,4 +123,6 @@ This guide provides instructions for building MyGUI on macOS, Windows, and Linux
 
 ## Additional Documentation
 
-For detailed information about the underlying engine structure of MyGUI, refer to the [MyGUI Engine Structure](MyGUI_ENGINE_STRUCTURE.md) document.
+For detailed information about the underlying engine structure of MyGUI, refer to the following documents.
+-  [MyGUI Engine Build Instructions](MyGUI_BUILD_INSTRUCTIONS.md) (this README.md)
+-  [MyGUI Engine Structure](MyGUI_ENGINE_STRUCTURE.md) 
